@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="textoCambianteText">texto</string>
+    <string name="nevera">Nevera</string>
+    <string name="plancha">Plancha</string>
+    <string name="secadora">Secadora</string>
+    <string name="comprar">Comprar</string>
+    <string name="title_activity_cesta_compra">cestaCompra</string>
+    <string name="title_activity_display_message">MyMessage</string>
+</resources>
